@@ -472,17 +472,29 @@ footer li {
   }
 
   .projects_komi_coffee_card {
-    width: 90%;
-    height: auto;
+    width: 300px;
+    height: 300px;
     aspect-ratio: 4/3;
+}
+
+.cardProjetcProjetos {
+  display: flex;
+  flex-direction: column;
+}
+
+  .projects_komi_coffee_card,
+  .projects_sorteador_de_numero_card {
+      width: 50%;
+      aspect-ratio: 4/3;
+      background-color: #f0f0f0; 
+      margin: 20px auto; 
+      display: block;
   }
 
-  .contact_card_concts {
+  .contact_card_concts  {
+    display: flex;
     flex-direction: column;
-    align-items: center;
-    gap: 40px;
   }
-
   .menu ul {
     font-family: "Poppins", sans-serif;
     font-weight: 100;
