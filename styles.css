@@ -228,7 +228,7 @@ nav a.active {
   font-family: "DM Sans", sans-serif;
   margin-bottom: 100px;
   scroll-margin-top: 100px;
-  margin-bottom: 350px;
+  /* margin-bottom: 350px; */
 }
 
 .cardProjetcProjetos {
@@ -241,8 +241,7 @@ nav a.active {
 
 .skills h2,
 .title_card_projects,
-.contact_title_card,
-.contact_title_card {
+.contact_title_card{
   text-align: center;
   font-size: 32px;
   margin-bottom: 70px;
@@ -471,12 +470,6 @@ footer li {
     gap: 30px;
   }
 
-  .projects_komi_coffee_card {
-    width: 300px;
-    height: 300px;
-    aspect-ratio: 4/3;
-}
-
 .cardProjetcProjetos {
   display: flex;
   flex-direction: column;
@@ -484,16 +477,17 @@ footer li {
 
   .projects_komi_coffee_card,
   .projects_sorteador_de_numero_card {
-      width: 50%;
+      width: 80%;
+      height: auto;
       aspect-ratio: 4/3;
-      background-color: #f0f0f0; 
       margin: 20px auto; 
-      display: block;
   }
 
   .contact_card_concts  {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    border: red 4px solid;
   }
   .menu ul {
     font-family: "Poppins", sans-serif;
@@ -509,4 +503,20 @@ footer li {
   nav {
     padding: 10px;
   }
+
+  .skills,
+  .projects,
+  .contact_title_card {
+  font-family: "DM Sans", sans-serif;
+  margin-bottom: 100px;
+  scroll-margin-top: 150px;
+}
+.skills h2,
+.title_card_projects,
+.contact_title_card{
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 70px;
+}
+
 }
