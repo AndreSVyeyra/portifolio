@@ -231,6 +231,14 @@ nav a.active {
   margin-bottom: 350px;
 }
 
+.cardProjetcProjetos {
+  display: flex;
+  justify-content:center;
+  gap:50px;
+}
+
+
+
 .skills h2,
 .title_card_projects,
 .contact_title_card,
@@ -332,6 +340,23 @@ nav a.active {
   margin: 40px auto;
   font-family: sans-serif;
 }
+
+
+.projects_sorteador_de_numero_card {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  background-image: url(./img/sorteador-de-numeros-fundo.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-bottom: 4px solid #8257e6;
+  overflow: hidden;
+  border-radius: 8px;
+  margin: 40px auto;
+  font-family: sans-serif;
+}
+
 
 .overlay {
   position: absolute;
