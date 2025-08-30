@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Portfólio Pessoal - Andre Vieira</h1>
 
 <p align="center">
-  ![Meu Portfólio](img/principal.png)
+  ![Meu Portfólio](aasets/principal.png)
 </p>
 
 <p align="center">
