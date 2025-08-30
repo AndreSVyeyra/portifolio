@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Portfólio Pessoal - Andre Vieira</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/152rhug2SGu8NPHjjhutiAhSfcZIFfbQO/view?usp=sharing" width="80%" />
+  ![Meu Portfólio](assets/print.png)
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@ Desenvolvido com foco em **responsividade**, **usabilidade** e **identidade visu
 ## 📱 Responsividade
 
 O site foi totalmente adaptado para diferentes tamanhos de tela, oferecendo uma ótima experiência em:
+
 - 📱 Celulares
 - 💻 Notebooks
 - 🖥️ Monitores maiores
@@ -41,7 +42,7 @@ O site foi totalmente adaptado para diferentes tamanhos de tela, oferecendo uma 
 
 ## 📸 Preview
 
-> 💡 *Veja abaixo como o projeto se adapta a diferentes telas:*
+> 💡 _Veja abaixo como o projeto se adapta a diferentes telas:_
 
 <p float="left">
   <img src="https://private-user-images.githubusercontent.com/56928555/435174006-fc0c87a0-b99a-432b-92e5-dd5ed9bde44d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwNjgyNzYsIm5iZiI6MTc0NTA2Nzk3NiwicGF0aCI6Ii81NjkyODU1NS80MzUxNzQwMDYtZmMwYzg3YTAtYjk5YS00MzJiLTkyZTUtZGQ1ZWQ5YmRlNDRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE5VDEzMDYxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0MDdiMTJjNWUyMTFiNGZmNzM2NGJmMGQ4ZDUwZWFjZGIwM2E2OGQzOTNkZTRmMWFlYzYwOWFhZTYxMjE5ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uFoHfBJKJKAAfU2DsEOVtfLt24FwZho0nsPLQ_J4mFM" width="32%" />
