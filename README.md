@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Portfólio Pessoal - Andre Vieira</h1>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/56928555/435171975-db2b68d6-0a10-4cf2-bd9e-136341989ec9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUwNjgyMzgsIm5iZiI6MTc0NTA2NzkzOCwicGF0aCI6Ii81NjkyODU1NS80MzUxNzE5NzUtZGIyYjY4ZDYtMGExMC00Y2YyLWJkOWUtMTM2MzQxOTg5ZWM5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE5VDEzMDUzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQxYTU1OTk5MzI0MmFiZDZkYzgwNjdkMzc4MDFjYmQ3ZjdiNzc1MWY1ZTY3MDkwYzJhNTY3MTFhZmMyYmM5ZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.L5nBdOQRo3BqmZSVpNM5yx8qJiWYluhUYdKddf_7oOw" width="80%" />
+  <img src="https://drive.google.com/file/d/152rhug2SGu8NPHjjhutiAhSfcZIFfbQO/view?usp=sharing" width="80%" />
 </p>
 
 <p align="center">
