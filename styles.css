@@ -256,7 +256,8 @@ nav a.active {
 .skills_cards_html,
 .skills_cards_css3,
 .skills_cards_javascript,
-.skills_cards_python {
+.skills_cards_python,
+.skills_cards_git  {
   line-height: 40px;
   padding: 20px;
   background-color: #212121;
@@ -286,10 +287,18 @@ nav a.active {
   padding-right: 45px;
 }
 
+.skills_cards_git {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+
+
 .icon_html,
 .icon_css,
 .icon_javascriprt,
-.icon_python {
+.icon_python,
+.icon_git {
   background-color: #212121;
   font-size: 45px;
   color: #8257e6;
@@ -298,7 +307,8 @@ nav a.active {
 .skills_cards_html p,
 .skills_cards_css3 p,
 .skills_cards_javascript p,
-.skills_cards_python p {
+.skills_cards_python p,
+.skills_cards_git p {
   background-color: #212121;
   color: #8257e6;
 }
@@ -307,6 +317,7 @@ nav a.active {
 .skills_cards_html,
 .skills_cards_css3,
 .skills_cards_javascript,
+.skills_cards_git,
 .skills_cards_python,
 .projects_card,
 .contact_card,
@@ -323,6 +334,10 @@ nav a.active {
 }
 
 .skills_cards_javascript:hover {
+  transform: scale(1.08);
+}
+
+.skills_cards_git:hover {
   transform: scale(1.08);
 }
 
