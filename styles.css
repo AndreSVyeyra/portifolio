@@ -369,6 +369,21 @@ nav a.active {
   font-family: sans-serif;
 }
 
+.projects_alugames {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  background-image: url(./img/alugames.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-bottom: 4px solid #8257e6;
+  overflow: hidden;
+  border-radius: 8px;
+  margin: 40px auto;
+  font-family: sans-serif;
+}
+
 
 .overlay {
   position: absolute;
@@ -489,7 +504,8 @@ footer li {
 }
 
   .projects_komi_coffee_card,
-  .projects_sorteador_de_numero_card {
+  .projects_sorteador_de_numero_card,
+  .projects_alugames{
       width: 80%;
       height: auto;
       aspect-ratio: 4/3;
