@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Portfólio Pessoal - Andre Vieira</h1>
+<h1 align="center"> Portfólio Pessoal - Andre Vieira</h1>
 
 <p align="center">
   <a href="https://andresvyeyra.github.io/portifolio/">
@@ -11,14 +11,14 @@
 
 ---
 
-## ✨ Sobre o Projeto
+##  Sobre o Projeto
 
 Este é o meu **portfólio pessoal**, onde apresento minhas habilidades, trajetória e projetos desenvolvidos.  
 Focado em **responsividade**, **usabilidade** e **identidade visual**, ele foi construído com base em boas práticas de **HTML, CSS e JavaScript**.
 
 ---
 
-## 💻 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,4 +66,4 @@ O site foi totalmente adaptado para diferentes tamanhos de tela, oferecendo uma 
 
 ---
 
-<h3 align="center">💡 Obrigado por visitar! 🚀</h3>
+<h3 align="center"> Obrigado por visitar! </h3>
