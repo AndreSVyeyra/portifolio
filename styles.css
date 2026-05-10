@@ -235,6 +235,7 @@ nav a.active {
   display: flex;
   justify-content:center;
   gap:50px;
+  flex-wrap: wrap;
 }
 
 
@@ -358,6 +359,21 @@ nav a.active {
   width: 400px;
   height: 300px;
   background-image: url(./img/komi.png);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border-bottom: 4px solid #8257e6;
+  overflow: hidden;
+  border-radius: 8px;
+  margin: 40px auto;
+  font-family: sans-serif;
+}
+
+.projects_netflix_clone_card {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  background-image: url(./img/netflix.png);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -516,16 +532,26 @@ footer li {
 .cardProjetcProjetos {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
 }
 
   .projects_komi_coffee_card,
   .projects_sorteador_de_numero_card,
-  .projects_alugames{
+  .projects_alugames,
+  .projects_netflix_clone_card{
+      width: 80%;
+    /*
+      height: auto;
+      aspect-ratio: 4/3;
+      margin: 20px auto;  */
+  }
+
+    /* .projects_netflix_clone_card {
       width: 80%;
       height: auto;
       aspect-ratio: 4/3;
-      margin: 20px auto; 
-  }
+      margin: 20px auto;
+    } */
 
   .contact_card_concts  {
     display: flex;
